@@ -1,0 +1,12 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\bin\Debug\baza.mdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\bin\Debug\Radnici prikazani prema plati u 4 kategorije.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\bin\Debug\Radnici prikazani prema plati u 4 kategorije.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\bin\Debug\Radnici prikazani prema plati u 4 kategorije.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici prikazani prema plati u 4 kategorije.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici prikazani prema plati u 4 kategorije.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici_prikazani_prema_plati_u_4_kategorije.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici_prikazani_prema_plati_u_4_kategorije.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici prikazani prema plati u 4 kategorije.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici prikazani prema plati u 4 kategorije.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici prikazani prema plati u 4 kategorije.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Radnici prikazani prema plati u 4 kategorije\Radnici prikazani prema plati u 4 kategorije\obj\Debug\Radnici prikazani prema plati u 4 kategorije.pdb
